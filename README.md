@@ -13,3 +13,5 @@ Sponsor Us Using UPI , Netbanking,Cards
 
 
 ![Merchant](qr/merchantqr.jpg)
+# new
+<img src="qr/upiqr.jpg?raw=true" width="100" height="100" />
